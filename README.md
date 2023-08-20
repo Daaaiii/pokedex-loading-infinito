@@ -16,4 +16,5 @@
 
 ## Preview
 <img src="./assets/images/pokedex.gif">
+
 ###### tags: `html` `desafio` `lógica` `javascript` `html` `css` `pokedex` `pokeapi`
