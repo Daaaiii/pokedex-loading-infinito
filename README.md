@@ -10,6 +10,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Deploy
-Github Pages - 
 
+[Github Pages](https://daaaiii.github.io/pokedex-loading-infinito/)
+
+
+## Preview
+<img src="./assets/images/pokedex.gif">
 ###### tags: `html` `desafio` `lógica` `javascript` `html` `css` `pokedex` `pokeapi`
